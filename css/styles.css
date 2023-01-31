@@ -21,6 +21,14 @@ img {
     border-radius: 5%;
 }
 
+.heading-para{
+    padding: 0 23px;
+    color:hsl(218, 44%, 22%);
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
 .content-para{
     color: hsl(220, 15%, 55%);
     font-size: 15px;
@@ -28,11 +36,5 @@ img {
 }
 
 
-.heading-para{
-    padding: 0 11px;
-    color:hsl(218, 44%, 22%);
-    font-size: 20px;
-    font-weight: bold;
 
-}
 
